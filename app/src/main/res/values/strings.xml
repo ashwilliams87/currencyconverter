@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="convert_to_text">Ковертировать в:</string>
+    <string name="convert_from_text">Ковертировать из:</string>
+    <string name="convert_sum_edit_text_hint">Введите сумму..</string>
+    <string name="convert_button_text">Конвертировать</string>
+    <string name="button_ask_internet">Попробовать снова</string>
+    <string name="ask_internet_text_view">Пожалуйста, подключите интернет для загрузки курсов валют.</string>
+    <string-array name="default_currency_array">
+        <item>-</item>
+    </string-array>
+</resources>
